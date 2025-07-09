@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fonyuy Gita</h1>
+<h1 align="center">Hi 👋, I'm NJEI PIERRICK Jnr</h1>
 <h3 align="center">Open-minded builder & lifelong learner | Passionate about Open Source, Progress & Principles</h3>
 
 <p align="center">
