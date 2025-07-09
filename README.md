@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Fonyuy Gita</h1>
+<h3 align="center">Open-minded builder & lifelong learner | Passionate about Open Source, Progress & Principles</h3>
 
-<!--
-**Agentic-JJ-Web3/Agentic-JJ-Web3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20work-Yes-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Philosophy-First%20Principles-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Web3-Privacy%20Matters-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Loves-JavaScript-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Consistency%20%26%20Progress-red?style=flat-square" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+
+- 🚀 I believe in **First Principles Thinking** as a foundation for building, learning, and living.
+- 🔍 Curious by nature, driven by a **love for knowledge** — psychology, metaphysics, tech and all that pushes boundaries.
+- 🤝 I admire **work over titles** and honor the pioneers of **open source**.
+- 🧩 Here to **connect, learn, build, and rebuild** to make the world better for **humans and every other inhabitant**.
+
+---
+
+### ⚙️ Tech Stack
+
+```ts
+Languages:   JavaScript | TypeScript  
+Frontend:    React | React Native  
+Exploring:   Web 3.0 | Blockchain  
+Values:      Efficiency | Privacy | Progress
