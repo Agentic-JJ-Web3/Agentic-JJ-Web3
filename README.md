@@ -35,8 +35,8 @@ I am an open-minded lifelong learner who believes deeply in the **first principl
 
 ### 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide=contribs&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Agentic-JJ-Web3&show_icons=true&hide=contribs&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agentic-JJ-Web3&layout=compact&theme=radical)
 
 ---
 
