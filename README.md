@@ -1,34 +1,3 @@
-<h1 align="center">Hi 👋, I'm NJEI PIERRICK Jnr</h1>
-<h3 align="center">Open-minded builder & lifelong learner | Passionate about Open Source, Progress & Principles</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20work-Yes-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Philosophy-First%20Principles-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Web3-Privacy%20Matters-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Loves-JavaScript-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Consistency%20%26%20Progress-red?style=flat-square" />
-</p>
-
----
-
-### 🧠 About Me
-
-- 🚀 I believe in **First Principles Thinking** as a foundation for building, learning, and living.
-- 🔍 Curious by nature, driven by a **love for knowledge** — psychology, metaphysics, tech and all that pushes boundaries.
-- 🤝 I admire **work over titles** and honor the pioneers of **open source**.
-- 🧩 Here to **connect, learn, build, and rebuild** to make the world better for **humans and every other inhabitant**.
-
----
-
-### ⚙️ Tech Stack
-
-```ts
-Languages:   JavaScript | TypeScript  
-Frontend:    React | React Native  
-Exploring:   Web 3.0 | Blockchain  
-Values:      Efficiency | Privacy | Progress
-
-```
 # Hi, I'm NJEI PIERRICK Jnr 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/your-link)
@@ -60,7 +29,7 @@ I am an open-minded lifelong learner who believes deeply in the **first principl
 ![Web3](https://img.shields.io/badge/Web3-F5F5F5?style=for-the-badge&logo=ethereum&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 
 ---
 
@@ -85,7 +54,7 @@ I am an open-minded lifelong learner who believes deeply in the **first principl
 - 🌐 **Portfolio**: [your-portfolio-link.com](https://your-portfolio-link.com)
 - 💼 **LinkedIn**: [linkedin.com/in/your-link](https://www.linkedin.com/in/your-link)
 - 🧑🏽‍🤝‍🧑🏽 **Facebook**: [facebook.com/your-link](https://www.facebook.com/your-link)
-- 🐙 **GitHub**: [github.com/your-github-username](https://github.com/your-github-username)
+- 🐙 **GitHub**: [github.com/Agentic-JJ-Web3](https://github.com/Agentic-JJ-Web3)
 
 ---
 
