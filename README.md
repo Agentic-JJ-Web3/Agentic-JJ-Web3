@@ -1,6 +1,6 @@
 # Hi, I'm NJEI PIERRICK Jnr 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/njei-pierrick-1a52aa2b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/njei-pierrick-1a52aa2b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/profile.php?id)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_now-orange?style=for-the-badge&logo=internet-explorer)](https://agentic-jj-web3.vercel.app/)
 [![GitHub followers](https://img.shields.io/github/followers/your-github-username?style=for-the-badge&logo=github)](https://github.com/Agentic-JJ-Web)
@@ -52,10 +52,11 @@ I am an open-minded lifelong learner who believes deeply in the **first principl
 
 ### 📫 Connect With Me
 
-- 🌐 **Portfolio**: [Portfolio 1.0](https://your-portfolio-link.com)
-- 💼 **LinkedIn**: [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/njei-pierrick-1a52aa2b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- 🌐 **Portfolio**: [Portfolio 1.0](https://agentic-jj-web3.vercel.app/)
+- 💼 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/njei-pierrick-1a52aa2b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 - 🧑🏽‍🤝‍🧑🏽 **Facebook**: [NJEI P](https://www.facebook.com/profile.php?id=61578022567005)
 - 🐙 **GitHub**: [Agentic](https://github.com/Agentic-JJ-Web3)
+- X **Twitter** [JJ](https://x.com/NjeiPierrick?s=09)
 
 ---
 
