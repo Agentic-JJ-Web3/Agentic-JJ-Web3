@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/your-link)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/your-link)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_now-orange?style=for-the-badge&logo=internet-explorer)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_now-orange?style=for-the-badge&logo=internet-explorer)](https://agentic-jj-web3.vercel.app/)
 [![GitHub followers](https://img.shields.io/github/followers/your-github-username?style=for-the-badge&logo=github)](https://github.com/your-github-username)
 [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%92%9A-blue?style=for-the-badge)](https://opensource.org/)
 
