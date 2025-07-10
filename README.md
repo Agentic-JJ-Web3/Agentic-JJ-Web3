@@ -1,10 +1,11 @@
 # Hi, I'm NJEI PIERRICK Jnr 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/your-link)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/njei-pierrick-1a52aa2b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/profile.php?id)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_now-orange?style=for-the-badge&logo=internet-explorer)](https://agentic-jj-web3.vercel.app/)
-[![GitHub followers](https://img.shields.io/github/followers/your-github-username?style=for-the-badge&logo=github)](https://github.com/your-github-username)
+[![GitHub followers](https://img.shields.io/github/followers/your-github-username?style=for-the-badge&logo=github)](https://github.com/Agentic-JJ-Web)
 [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%92%9A-blue?style=for-the-badge)](https://opensource.org/)
+
 
 ---
 
@@ -51,10 +52,10 @@ I am an open-minded lifelong learner who believes deeply in the **first principl
 
 ### 📫 Connect With Me
 
-- 🌐 **Portfolio**: [your-portfolio-link.com](https://your-portfolio-link.com)
-- 💼 **LinkedIn**: [linkedin.com/in/your-link](https://www.linkedin.com/in/your-link)
-- 🧑🏽‍🤝‍🧑🏽 **Facebook**: [facebook.com/your-link](https://www.facebook.com/your-link)
-- 🐙 **GitHub**: [github.com/Agentic-JJ-Web3](https://github.com/Agentic-JJ-Web3)
+- 🌐 **Portfolio**: [Portfolio 1.0](https://your-portfolio-link.com)
+- 💼 **LinkedIn**: [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/njei-pierrick-1a52aa2b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- 🧑🏽‍🤝‍🧑🏽 **Facebook**: [NJEI P](https://www.facebook.com/profile.php?id=61578022567005)
+- 🐙 **GitHub**: [Agentic](https://github.com/Agentic-JJ-Web3)
 
 ---
 
