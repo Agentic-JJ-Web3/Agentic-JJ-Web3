@@ -27,7 +27,7 @@ I am an open-minded lifelong learner who believes deeply in the **first principl
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Cloud AWS](https://img.shields.io/badge/AWS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Cloud AWS](https://img.shields.io/badge/AWS-20232A?style=for-the-badge&logo=aws&logoColor=61DAFB)
 ![Web3](https://img.shields.io/badge/Web3-F5F5F5?style=for-the-badge&logo=ethereum&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
