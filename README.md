@@ -4,8 +4,8 @@
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://agentic-jj-web3.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/njei-pierrick-1a52aa2b8)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/your-username)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/NjeiPierrick)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/agentic-jj)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Agebticjj)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61578022567005)
 [![GitHub followers](https://img.shields.io/github/followers/Agentic-JJ-Web3?style=for-the-badge&logo=github&color=181717)](https://github.com/Agentic-JJ-Web3)
 
@@ -70,7 +70,7 @@ I am an **open-minded lifelong learner** who believes deeply in the **first prin
 ## ✍️ Latest Articles on Dev.to
 
 <!-- BLOG-POST-LIST:START -->
-Check out my technical articles on [Dev.to](https://dev.to/your-username) where I share insights on:
+Check out my technical articles on [Dev.to](https://dev.to/agentic-jj) where I share insights on:
 - Full-stack development with TypeScript and React
 - Cloud infrastructure and DevOps practices
 - Web3 and decentralized technologies
@@ -98,7 +98,7 @@ Check out my technical articles on [Dev.to](https://dev.to/your-username) where 
 | 🌐 **Portfolio** | [agentic-jj-web3.vercel.app](https://agentic-jj-web3.vercel.app/) |
 | 💼 **LinkedIn** | [NJEI PIERRICK](https://www.linkedin.com/in/njei-pierrick-1a52aa2b8) |
 | 📝 **Dev.to** | [Your Dev.to Profile](https://dev.to/your-username) |
-| 🐦 **Twitter/X** | [@NjeiPierrick](https://x.com/NjeiPierrick) |
+| 🐦 **Twitter/X** | [@NjeiPierrick](https://x.com/Agebticjj) |
 | 📘 **Facebook** | [NJEI P](https://www.facebook.com/profile.php?id=61578022567005) |
 | 🐙 **GitHub** | [@Agentic-JJ-Web3](https://github.com/Agentic-JJ-Web3) |
 
