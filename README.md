@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/ynwY3nG8/avatar.png" alt="NJEI PIERRICK Jnr" width="150" style="border-radius: 50%;" />
+  <img src="https://i.ibb.co/ynwY3nG8/avatar.png" alt="NJEI PIERRICK Jnr" width="200" style="border-radius: 50%; border: 4px solid #00D9FF; box-shadow: 0 0 20px #00D9FF, 0 0 40px #00D9FF, 0 0 60px #00D9FF; padding: 4px; background: linear-gradient(145deg, #1a1a2e, #16213e);" />
 </div>
 
 # Hi, I'm NJEI PIERRICK Jnr 👋
