@@ -72,15 +72,15 @@ I am an **open-minded lifelong learner** passionate about building impactful tec
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Agentic-JJ-Web3&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Agentic-JJ-Web3&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agentic-JJ-Web3&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agentic-JJ-Web3&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&cache_seconds=86400" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Agentic-JJ-Web3&theme=tokyonight&hide_border=true"/>
+<img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Agentic-JJ-Web3&theme=tokyonight&hide_border=true&card_width=495" />
 
 </div>
 
