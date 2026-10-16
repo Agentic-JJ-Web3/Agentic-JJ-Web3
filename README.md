@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/njeipierrick)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/agentic-jj)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/agenticjj)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61578022567005)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/njeipierrick)
 [![GitHub Followers](https://img.shields.io/github/followers/Agentic-JJ-Web3?style=for-the-badge&logo=github)](https://github.com/Agentic-JJ-Web3)
 
 </div>
@@ -94,17 +94,7 @@ I am an **open-minded lifelong learner** passionate about building impactful tec
 
 ---
 
-# 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Agentic-JJ-Web3&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
-<div align="right">🏆 😸</div>
-
----
 
 # 📈 Contribution Graph
 
@@ -155,7 +145,7 @@ Visit 👉 https://dev.to/agentic-jj
 | 💼 LinkedIn | https://www.linkedin.com/in/njei-pierrick-1a52aa2b8 |
 | 📝 Dev.to | https://dev.to/agentic-jj |
 | 🐦 Twitter | https://x.com/NjeiPierrick |
-| 📘 Facebook | https://www.facebook.com/profile.php?id=61578022567005 |
+| 📘 Facebook | https://www.facebook.com/njeipierrick |
 | 🐙 GitHub | https://github.com/Agentic-JJ-Web3 |
 
 </div>
