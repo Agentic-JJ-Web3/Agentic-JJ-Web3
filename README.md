@@ -10,12 +10,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/njeipierrick)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/agentic-jj)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/agenticjj)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/njeipierrick)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61578022567005)
 [![GitHub Followers](https://img.shields.io/github/followers/Agentic-JJ-Web3?style=for-the-badge&logo=github)](https://github.com/Agentic-JJ-Web3)
 
 </div>
-
-<div align="right">ฅ^•ﻌ•^ฅ</div>
 
 ---
 
@@ -29,8 +27,6 @@ I am an **open-minded lifelong learner** passionate about building impactful tec
 - 🔐 Interested in Privacy, Web3 & Decentralization
 - 📚 Constantly learning new technologies
 - ❤️ Open Source Contributor
-
-<div align="right">🐾 🐱</div>
 
 ---
 
@@ -70,15 +66,13 @@ I am an **open-minded lifelong learner** passionate about building impactful tec
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-<div align="right">=^..^= 💻</div>
-
 ---
 
 # 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Agentic-JJ-Web3&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=default&cache_seconds=86400" />
+<img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Agentic-JJ-Web3&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" />
 
 <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agentic-JJ-Web3&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&cache_seconds=86400" />
 
@@ -90,11 +84,17 @@ I am an **open-minded lifelong learner** passionate about building impactful tec
 
 </div>
 
-<div align="left">😺 📈</div>
-
 ---
 
+# 🏆 GitHub Trophies
 
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Agentic-JJ-Web3&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
 
 # 📈 Contribution Graph
 
@@ -103,8 +103,6 @@ I am an **open-minded lifelong learner** passionate about building impactful tec
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Agentic-JJ-Web3&theme=tokyo-night&hide_border=true"/>
 
 </div>
-
-<div align="left">🐈 💨</div>
 
 ---
 
@@ -118,8 +116,6 @@ I am an **open-minded lifelong learner** passionate about building impactful tec
 
 Visit 👉 https://dev.to/agentic-jj
 
-<div align="right">✍️ 🐱</div>
-
 ---
 
 # 🎯 2026 Goals
@@ -131,8 +127,6 @@ Visit 👉 https://dev.to/agentic-jj
 - 📚 Build AI-powered Products
 - 🌍 Launch Impactful African Tech Solutions
 
-<div align="left">😼 🎯</div>
-
 ---
 
 # 📫 Connect With Me
@@ -142,10 +136,10 @@ Visit 👉 https://dev.to/agentic-jj
 | Platform | Link |
 |----------|------|
 | 🌐 Portfolio | https://agentic-jj-web3.vercel.app |
-| 💼 LinkedIn | https://www.linkedin.com/in/njeipierrick |
+| 💼 LinkedIn | https://www.linkedin.com/in/njei-pierrick-1a52aa2b8 |
 | 📝 Dev.to | https://dev.to/agentic-jj |
 | 🐦 Twitter | https://x.com/NjeiPierrick |
-| 📘 Facebook | https://www.facebook.com/njeipierrick |
+| 📘 Facebook | https://www.facebook.com/profile.php?id=61578022567005 |
 | 🐙 GitHub | https://github.com/Agentic-JJ-Web3 |
 
 </div>
@@ -161,9 +155,5 @@ Visit 👉 https://dev.to/agentic-jj
 ![Visitor Count](https://komarev.com/ghpvc/?username=Agentic-JJ-Web3&style=for-the-badge&color=blue)
 
 ![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=for-the-badge)
-
-<br/>
-
-ฅ^•ﻌ•^ฅ &nbsp; *thanks for stopping by!* &nbsp; ฅ^•ﻌ•^ฅ
 
 </div>
