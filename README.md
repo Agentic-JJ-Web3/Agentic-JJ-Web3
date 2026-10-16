@@ -15,6 +15,8 @@
 
 </div>
 
+<div align="right">ฅ^•ﻌ•^ฅ</div>
+
 ---
 
 # 🌱 About Me
@@ -27,6 +29,8 @@ I am an **open-minded lifelong learner** passionate about building impactful tec
 - 🔐 Interested in Privacy, Web3 & Decentralization
 - 📚 Constantly learning new technologies
 - ❤️ Open Source Contributor
+
+<div align="right">🐾 🐱</div>
 
 ---
 
@@ -66,13 +70,15 @@ I am an **open-minded lifelong learner** passionate about building impactful tec
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+<div align="right">=^..^= 💻</div>
+
 ---
 
 # 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Agentic-JJ-Web3&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" />
+<img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Agentic-JJ-Web3&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=default&cache_seconds=86400" />
 
 <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agentic-JJ-Web3&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&cache_seconds=86400" />
 
@@ -84,6 +90,8 @@ I am an **open-minded lifelong learner** passionate about building impactful tec
 
 </div>
 
+<div align="left">😺 📈</div>
+
 ---
 
 # 🏆 GitHub Trophies
@@ -94,6 +102,8 @@ I am an **open-minded lifelong learner** passionate about building impactful tec
 
 </div>
 
+<div align="right">🏆 😸</div>
+
 ---
 
 # 📈 Contribution Graph
@@ -103,6 +113,8 @@ I am an **open-minded lifelong learner** passionate about building impactful tec
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Agentic-JJ-Web3&theme=tokyo-night&hide_border=true"/>
 
 </div>
+
+<div align="left">🐈 💨</div>
 
 ---
 
@@ -116,6 +128,8 @@ I am an **open-minded lifelong learner** passionate about building impactful tec
 
 Visit 👉 https://dev.to/agentic-jj
 
+<div align="right">✍️ 🐱</div>
+
 ---
 
 # 🎯 2026 Goals
@@ -126,6 +140,8 @@ Visit 👉 https://dev.to/agentic-jj
 - 🔥 Contribute to Open Source
 - 📚 Build AI-powered Products
 - 🌍 Launch Impactful African Tech Solutions
+
+<div align="left">😼 🎯</div>
 
 ---
 
@@ -155,5 +171,9 @@ Visit 👉 https://dev.to/agentic-jj
 ![Visitor Count](https://komarev.com/ghpvc/?username=Agentic-JJ-Web3&style=for-the-badge&color=blue)
 
 ![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=for-the-badge)
+
+<br/>
+
+ฅ^•ﻌ•^ฅ &nbsp; *thanks for stopping by!* &nbsp; ฅ^•ﻌ•^ฅ
 
 </div>
