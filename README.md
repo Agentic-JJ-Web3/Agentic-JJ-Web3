@@ -142,7 +142,7 @@ Visit 👉 https://dev.to/agentic-jj
 | Platform | Link |
 |----------|------|
 | 🌐 Portfolio | https://agentic-jj-web3.vercel.app |
-| 💼 LinkedIn | https://www.linkedin.com/in/njei-pierrick-1a52aa2b8 |
+| 💼 LinkedIn | https://www.linkedin.com/in/njeipierrick |
 | 📝 Dev.to | https://dev.to/agentic-jj |
 | 🐦 Twitter | https://x.com/NjeiPierrick |
 | 📘 Facebook | https://www.facebook.com/njeipierrick |
